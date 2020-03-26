@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 def remove_every_other(my_list):
+    #using slice notation
     return print(my_list[0::2])
 
 def main():
